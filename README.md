@@ -2,19 +2,6 @@
 
 A comprehensive command-line restaurant management system built with Python, implementing Object-Oriented Programming (OOP) principles including abstraction, inheritance, and encapsulation.
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [OOP Concepts](#oop-concepts)
-- [Admin Section](#admin-section)
-- [Customer Section](#customer-section)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## ✨ Features
 
 ### Admin Features
@@ -217,8 +204,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@iftekharul01](https://github.com/iftekharul01)
+- Email: iftekharulislam01@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -228,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions:
-- Open an [issue](https://github.com/yourusername/Restaurant-Management-System-in-Python/issues)
+- Open an [issue](https://github.com/iftekharul01/Restaurant-Management-System-in-Python/issues)
 - Contact via email
 
 ---
